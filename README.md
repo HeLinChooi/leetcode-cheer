@@ -1,5 +1,7 @@
 # LeetCode Cheer
 
+> **This repository is archived.** LeetCode Cheer now lives in [chrome-extensions/leetcode-cheer](https://github.com/HeLinChooi/chrome-extensions/tree/main/leetcode-cheer), together with my other Chrome extensions. Its full commit history moved there too.
+
 A Chrome extension that celebrates when a LeetCode submission is accepted, and
 keeps score so that solving problems feels like progress.
 
